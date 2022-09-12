@@ -1,0 +1,262 @@
+/*body{
+    background-image: url(../Img/fotofondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}*/
+
+/*.navbar.navbar-expand-lg.navbar-dark.bg-teal-700{
+    background: #005c53;
+}*/
+
+/*ul {
+    list-style: none;
+}*/
+
+.nav-link{
+    color: #7c7c7c;
+}
+
+.nav-link:hover{
+    color: #F63C12;
+}
+
+
+
+i.fa-brands.fa-linkedin-in.fa-stack-1x.fa-inverse,
+i.fa-brands.fa-github.fa-stack-1x.fa-inverse,
+i.fa-solid.fa-user-lock.fa-sm,
+i.fa-solid.fa-user.fa-sm{
+    color: #ffffff;
+}
+
+i.fa-brands.fa-linkedin-in.fa-stack-1x.fa-inverse:hover,
+i.fa-brands.fa-linkedin-in.fa-sm:hover,
+i.fa-brands.fa-github.fa-stack-1x.fa-inverse:hover,
+i.fa-solid.fa-user-lock.fa-sm:hover,
+i.fa-solid.fa-user.fa-sm:hover{
+    color: #F63C12;
+}
+
+
+.list-group{
+    --bs-list-group-bg: transperent;
+    --bs-list-group-border-color: transperent;
+}
+
+section.inicio{
+    background-image: url(../Img/nuevafondo.jpg) !important;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    padding-left: 25rem;
+    color: #fdfeff;
+    margin:0%;
+    font-size:xx-large;
+    font-weight: 900;
+}
+
+.fotoperfil{
+    padding-left: 2rem;
+}
+
+.redes{
+    padding-left: 1.5rem;
+}
+
+
+.fa-circle{
+color: #777575;
+}
+      
+
+.card-subtitle,.card-text{
+    color: #070707;
+}
+
+section.sobreMi,
+section.habilidades,
+section.proyectos,
+section.contacto{
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+    padding-left: 15rem;
+    padding-right: 2rem;
+    color: #fcfdfd;
+}
+
+section.contacto{
+    background-image: url(../Img/desarrolloweboscuro.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.logoAP{
+    margin-top: -2rem;
+}
+
+
+.text-pequeño{
+    font-size: small;
+    font-weight:400;
+    color: #ffffff;
+}
+
+.text-skills{
+    font-size:medium;
+    font-weight: 300;
+    margin-bottom: -1rem;
+}
+
+.tituloEdu{
+    font-size:medium;
+    font-weight:600;
+    
+}
+
+.añoEdu{
+    font-size:small;
+    font-weight:400;
+    margin-top: -1.5rem;
+}
+
+.uniEdu{
+    font-size:smaller;
+    font-weight:300;
+    margin-top: -1.5rem;
+    color: #b8b4b4;
+}
+
+.descripcionEdu{
+    font-size: small;
+    font-weight:400;
+    margin-top: -1.5rem;
+}
+
+.icono{
+    padding-left: 3rem;
+    padding-top: 0.3rem;
+}
+
+.fa-solid.fa-graduation-cap.fa-xl,
+.fa-solid.fa-laptop-code.fa-xl{
+    color: #F63C12;
+}
+
+.progress1{
+    --bs-progress-bar-bg: #c9c551;
+    --bs-progress-height: 0.9rem;
+}
+
+.progress2{
+    --bs-progress-bar-bg: #DEA60B;
+    --bs-progress-height: 0.9rem;
+}
+
+.progress3{
+    --bs-progress-bar-bg: #F57200;
+    --bs-progress-height: 0.9rem;
+}
+
+.card{
+    border-color:#ffffff;
+}
+
+.card-proyectos{
+    --bs-btn-bg: none;
+    --bs-btn-border-color: #ffffff;
+}
+
+.btn-primary{
+    --bs-btn-bg: none;
+    --bs-btn-border-color: #F63C12;
+    --bs-btn-color: #ffffff;
+}
+
+.btn-modal{
+    --bs-btn-bg: none;
+    --bs-btn-color: #F63C12;
+}
+
+.form-control{
+   border-color: #ffffff;
+   background-color: #ffffff31;
+   color: #070707;
+}
+
+.ventanamodal{
+    border-color: #F63C12;
+    background-color: #ffffff;
+    color: #070707; 
+}
+
+.modal-content{
+    border-color: #F63C12;
+    background-color: #ffffff;
+}
+
+.barra{
+    padding-top: 1rem;
+}
+
+
+  .wrapper {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    padding-left: 0%;
+    color: #faf6f6;
+  }
+  
+  .sidebar {
+    width: 12rem;
+    background-color: #ffffff;
+    padding-top: 3rem;   
+  }
+  
+ 
+  .content {
+    color: #ffffff;
+    background-color: black;
+    width: 100%;
+  }
+
+  .nav-pills{
+    padding-left: 1rem;
+    color: #777575;
+  }
+
+  .divider{
+    color: #F63C12;
+    width: 15rem;
+    margin-top: -1rem;
+    border-top: 0.2rem solid;
+    opacity: 1;
+}
+
+.divider1{
+    color: #F63C12;
+    width: 5rem;
+    margin-top: -0.1rem;
+    border-top: 0.2rem solid;
+    opacity: 1;
+}
+
+
+/* DASHBOARD */
+
+.fa-solid.fa-pen-to-square.fa-xs{
+    color:#ffffff;
+}
+
+.fa-solid.fa-pen-to-square.fa-xs:hover{
+    color:#F63C12
+}
+
+.modificar{
+    float:right;
+}
+
